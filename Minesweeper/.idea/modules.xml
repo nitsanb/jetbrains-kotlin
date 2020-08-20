@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper.iml" group="Minesweeper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper-task.iml" group="Minesweeper/Minesweeper-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check the numbers/Problems-Check_the_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check the numbers/Problems-Check_the_numbers.iml" group="Minesweeper/Problems-Check_the_numbers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Delegation/Problems-Delegation.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Delegation/Problems-Delegation.iml" group="Minesweeper/Problems-Delegation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room.iml" group="Minesweeper/Problems-Floor-space_of_the_room" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Individual taxes/Problems-Individual_taxes.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Individual taxes/Problems-Individual_taxes.iml" group="Minesweeper/Problems-Individual_taxes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array/Problems-Initializing_an_array.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array/Problems-Initializing_an_array.iml" group="Minesweeper/Problems-Initializing_an_array" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of integers/Problems-Initializing_an_array_of_integers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of integers/Problems-Initializing_an_array_of_integers.iml" group="Minesweeper/Problems-Initializing_an_array_of_integers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/Problems-Initializing_an_array_of_longs.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/Problems-Initializing_an_array_of_longs.iml" group="Minesweeper/Problems-Initializing_an_array_of_longs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Is it here?/Problems-Is_it_here_.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Is it here?/Problems-Is_it_here_.iml" group="Minesweeper/Problems-Is_it_here_" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Just checking/Problems-Just_checking.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Just checking/Problems-Just_checking.iml" group="Minesweeper/Problems-Just_checking" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Problems-Right_Rotation.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Problems-Right_Rotation.iml" group="Minesweeper/Problems-Right_Rotation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The longest sequence/Problems-The_longest_sequence.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The longest sequence/Problems-The_longest_sequence.iml" group="Minesweeper/Problems-The_longest_sequence" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The maximum pairwise product/Problems-The_maximum_pairwise_product.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The maximum pairwise product/Problems-The_maximum_pairwise_product.iml" group="Minesweeper/Problems-The_maximum_pairwise_product" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The minimum value of N numbers/Problems-The_minimum_value_of_N_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The minimum value of N numbers/Problems-The_minimum_value_of_N_numbers.iml" group="Minesweeper/Problems-The_minimum_value_of_N_numbers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The roots of equation/Problems-The_roots_of_equation.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The roots of equation/Problems-The_roots_of_equation.iml" group="Minesweeper/Problems-The_roots_of_equation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Minesweeper/util" />
+    </modules>
+  </component>
+</project>
